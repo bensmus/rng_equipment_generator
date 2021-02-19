@@ -1,0 +1,18 @@
+# describes the average weapon stats at weapon level
+
+1:
+  price: 100
+  cooling: 1
+  range: 1
+  rof: 1
+  dmg: 1
+  
+
+2:
+  price: 500
+  cooling: 4
+  range: 4
+  rof: 4
+  dmg: 4
+
+
